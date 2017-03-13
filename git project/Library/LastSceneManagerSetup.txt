@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/git.unity
+- path: Assets/Scene/git.unity
   isLoaded: 1
   isActive: 1
