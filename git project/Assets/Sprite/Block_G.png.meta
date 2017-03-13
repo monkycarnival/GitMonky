@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: eb167158cd22bcd4883851f9f666afbf
-timeCreated: 1489385662
+guid: 816c5b12ef02ac3428b5b25382757e47
+timeCreated: 1489388549
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: block_1
+    21300000: Block_G_0
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -54,15 +54,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: block_1
+      name: Block_G_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1
-        width: 12
-        height: 14
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
